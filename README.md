@@ -68,18 +68,16 @@ cd campus-event-platform
 
 Organize your files for scalability and maintainability:
 
-bash
-Copy code
 src/
-│
-├── components/        # Reusable UI components (Navbar, EventCard, etc.)
-├── pages/             # Next.js routing pages (Home, Dashboard, Events, Login)
-├── utils/             # Helper functions and utilities
-├── styles/            # Tailwind or global CSS files
-├── public/            # Static files and assets
-├── .env               # Environment variables (MongoDB URI, secrets)
-├── package.json       # Project metadata and dependencies
-└── next.config.js     # Next.js configuration
+├── assets/
+├── components/
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Projects.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+
 
 
 **3. Designing the Layout**

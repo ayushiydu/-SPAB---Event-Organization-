@@ -92,6 +92,7 @@ Dashboard (Organizer/Admin): Create, approve, or manage events.
 
 Login/Register: Secure login for students and organizers.
 
+
 **4. Styling the Components**
 Use Tailwind CSS for fast, responsive styling.
 

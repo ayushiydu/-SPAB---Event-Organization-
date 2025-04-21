@@ -97,14 +97,19 @@ Dashboard (Organizer/Admin): Create, approve, or manage events.
 
 Login/Register: Secure login for students and organizers.
 
+---
+---
 
-**4. Styling the Components**
+**4. Styling the Components** 
+
 -Use Tailwind CSS for fast, responsive styling.
 
 -Make use of utility-first classes for layout and theme customization.
 
 -Could you make sure that mobile, tablet, and desktop screens?
 
+---
+---
 
 **5. Adding Interactivity**
 
@@ -113,6 +118,9 @@ Login/Register: Secure login for students and organizers.
 -Implement form validations, event filtering, and conditional rendering.
 
 -Add subtle animations with libraries like Framer Motion or AOS.
+
+---
+---
 
 **5. Adding Interactivity**
 -Optimize image and component loading using next/image and dynamic imports.
@@ -133,6 +141,8 @@ http://www.netlify.com/
 https://render.com/
 Don’t forget to configure environment variables on the hosting platform!
 
+---
+---
 
 **🙌 Acknowledgements**
 
